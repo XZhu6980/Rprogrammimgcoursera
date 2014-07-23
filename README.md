@@ -1,4 +1,3 @@
 Rprogrammimgcoursera
 ====================
-##R Programming
-by Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
+https://class.coursera.org/rprog-005
